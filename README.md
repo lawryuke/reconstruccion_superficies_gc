@@ -6,6 +6,13 @@ Este directorio contiene todo el código fuente, archivos de puntos y scripts co
 
 ## Estructura de Archivos
 
+* `BallPivoting2D_Malla_OpenGL.cpp`: Generación de triángulos en 2D (punto 1).
+* `BallPivoting3D_Pedagogico_OpenGL.cpp`: Ejemplo 3D con rotación (punto 2).
+* `01_Visualizador_Stanford_Bunny_CENTRADO.cpp`: Bunny en modo puntos y malla (punto 3).
+* `02_Stanford_Bunny_BPA_2503_CENTRADO.cpp`: Reconstrucción con tres radios (punto 4).
+* `Stanford_Bunny_2503.obj`: Malla de referencia del Bunny.
+* `img/`: Capturas de los puntos 1 al 4.
+* [INFORME_PUNTOS_1_2_3_4.md](INFORME_PUNTOS_1_2_3_4.md): Capturas y comparación de radios.
 * `Stanford_Bunny_2503.xyz`: Nube de puntos original reducida (2 503 puntos).
 * `Stanford_Bunny_20000.xyz`: Nube de puntos intermedia (20 000 puntos).
 * `Stanford_Bunny_50000.xyz`: Nube de puntos grande para prueba de estrés (50 000 puntos).
