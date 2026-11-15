@@ -1,3 +1,17 @@
+// ==============================================================================
+// UNIVERSIDAD NACIONAL DE SAN AGUSTIN
+// ESCUELA PROFESIONAL DE CIENCIA DE LA COMPUTACION
+// CURSO: Computacion Grafica - Grupo A
+// DOCENTE: Gutierrez Caceres Juan Carlos
+// 
+// INTEGRANTES:
+//   - Miramira Bellido Rimsky Augusto
+//   - Machaca Muniz Jose Alejandro
+// 
+// PRACTICA: Reconstruccion de superficies con Ball Pivoting
+// ARCHIVO: BallPivoting3D_Pedagogico_OpenGL.cpp
+// ==============================================================================
+
 #include <GL/glut.h>
 #include <cmath>
 #include <cstdlib>

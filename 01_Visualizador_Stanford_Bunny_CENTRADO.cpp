@@ -1,3 +1,17 @@
+// ==============================================================================
+// UNIVERSIDAD NACIONAL DE SAN AGUSTIN
+// ESCUELA PROFESIONAL DE CIENCIA DE LA COMPUTACION
+// CURSO: Computacion Grafica - Grupo A
+// DOCENTE: Gutierrez Caceres Juan Carlos
+// 
+// INTEGRANTES:
+//   - Miramira Bellido Rimsky Augusto
+//   - Machaca Muniz Jose Alejandro
+// 
+// PRACTICA: Reconstruccion de superficies con Ball Pivoting
+// ARCHIVO: 01_Visualizador_Stanford_Bunny_CENTRADO.cpp
+// ==============================================================================
+
 #include <GL/glut.h>
 #include <algorithm>
 #include <cmath>
