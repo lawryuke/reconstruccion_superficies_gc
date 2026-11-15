@@ -1,5 +1,12 @@
 #!/bin/bash
 # ==============================================================================
+# UNIVERSIDAD NACIONAL DE SAN AGUSTÍN
+# CURSO: Computación Gráfica - Grupo A
+# DOCENTE: Gutierrez Caceres Juan Carlos
+# INTEGRANTES:
+#   - Miramira Bellido Rimsky Augusto
+#   - Machaca Muñiz Jose Alejandro
+#
 # Script de ejecución para Laboratorio de Ball Pivoting (Linux)
 # Punto 5: Medición de tiempos de ejecución para 2503 y 20 000 puntos
 # ==============================================================================

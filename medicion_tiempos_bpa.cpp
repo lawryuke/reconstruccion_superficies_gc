@@ -1,3 +1,17 @@
+// ==============================================================================
+// UNIVERSIDAD NACIONAL DE SAN AGUSTÍN
+// ESCUELA PROFESIONAL DE CIENCIA DE LA COMPUTACIÓN
+// CURSO: Computación Gráfica - Grupo A
+// DOCENTE: Gutierrez Caceres Juan Carlos
+// 
+// INTEGRANTES:
+//   - Miramira Bellido Rimsky Augusto
+//   - Machaca Muñiz Jose Alejandro
+// 
+// PRÁCTICA: Reconstrucción de superficies con Ball Pivoting
+// ARCHIVO: medicion_tiempos_bpa.cpp (Medición de tiempos CPU - Punto 5)
+// ==============================================================================
+
 #include <iostream>
 #include <fstream>
 #include <sstream>

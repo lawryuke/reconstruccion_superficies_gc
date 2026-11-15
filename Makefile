@@ -1,6 +1,12 @@
 # ==============================================================================
-# Makefile para Laboratorio de Ball Pivoting (Linux)
-# Generación de Malla y Medición de Rendimiento CPU vs CUDA
+# UNIVERSIDAD NACIONAL DE SAN AGUSTÍN
+# CURSO: Computación Gráfica - Grupo A
+# DOCENTE: Gutierrez Caceres Juan Carlos
+# INTEGRANTES:
+#   - Miramira Bellido Rimsky Augusto
+#   - Machaca Muñiz Jose Alejandro
+#
+# PRÁCTICA: Reconstrucción de superficies con Ball Pivoting
 # ==============================================================================
 
 CXX = g++
